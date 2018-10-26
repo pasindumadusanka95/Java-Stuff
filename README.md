@@ -1,2 +1,2 @@
 # Java
-Java Stuff
+Some functions, theorms implemented using JAVA
